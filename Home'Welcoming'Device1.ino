@@ -1,4 +1,4 @@
-//Arduino 1 - The way things go - Entry assistance (instruction)
+//Arduino 1 - Home'Welcoming'Device - Entry assistance (instruction)
 #include <Stepper.h>
 const int stepsPerRevolution = 1024;
 Stepper myStepper(stepsPerRevolution, 8, 10, 9, 11);
