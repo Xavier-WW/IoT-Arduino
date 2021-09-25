@@ -1,5 +1,5 @@
 //Backmusic - DOOM theme - Refence GITHUB Robson Couto
-//Arduino 3 - The way things go
+//Arduino 3 - Home'Welcoming'Device
 #define NOTE_B0  31
 #define NOTE_C1  33
 #define NOTE_CS1 35
