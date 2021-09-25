@@ -1,4 +1,4 @@
-//Arduino 2 - The way things go - desk assistassistance
+//Arduino 2 - Home'Welcoming'Device - desk assistassistance
 #include <SimpleDHT.h>
 SimpleDHT11 oneDht11(6);
 //int mq2 = A0;      //Gas sensor
